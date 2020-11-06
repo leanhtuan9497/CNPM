@@ -6,6 +6,6 @@ using System.Web;
 namespace BeeMall.App_Code
 {
     public class clsUser
-    {
+    {//TUanANh
     }
 }
